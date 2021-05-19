@@ -1,0 +1,53 @@
+
+.container{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.info{
+  line-height: 1.5rem;
+  font-size: 1.25rem;
+  
+  padding: 8rem;
+  text-align: left;
+}
+
+h1{
+  font-size: 2em;
+}
+
+.innerInfo{
+  padding: 2em 2em 2em 6em;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  
+}
+
+.innerInfo:hover{
+  color: rgb(44, 69, 150);
+  
+}
+
+.pay{
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  margin: 2em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+  color: green;
+}
+
+/* .carousel {
+  width:60%;
+  height: 60%;
+  
+} */
+img{
+      max-height: 800px;
+      max-width: 1000px;
+      margin: auto;
+}
+
+.nav-item{
+  font-size: 1.2rem;
+  padding: 0 1.2rem 0 1.2rem;
+}
